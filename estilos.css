@@ -1,0 +1,101 @@
+
+
+.nav-link {
+    color:rgb(191, 188, 188);
+}
+
+#logo {
+color:white;
+}
+
+#conferencia {
+    color: white;
+}
+
+#comprarTickets {
+    color: rgb(11, 175, 11);
+}
+
+#Imagen {
+    filter:brightness(0.4);
+}
+
+.card-img-overlay {
+    color: white;
+}
+
+p,h5 {
+    text-align: right;
+}
+
+h6,h3 {
+
+    text-align: center;
+
+}
+
+h6 {
+    font-size: smaller;
+}
+
+#oradores {
+   margin-left: 10rem;
+   margin-right: 10rem;
+}
+
+#boton {
+  font-weight: 650;
+ color: white;
+ padding: 0.1px;
+ margin: 1px;
+}
+
+#botonJS {
+    font-weight: 650;
+    padding: 0.1px;
+    margin: 1px;
+}
+
+#botonReact {
+    background-color: rgb(56, 144, 151);
+    color: white;
+    font-weight: 650;
+    padding: 0.1px;
+    margin: 1px;
+}
+
+.card-title {
+    text-align: left;
+}
+
+.card-text {
+    text-align: left;
+    font-size: small;
+}
+
+#card {
+    background-color: rgb(68, 73, 82);
+    color: white;
+}
+
+u {
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+}
+
+#sub {
+    text-align: left;
+    font-size: 12px;
+}
+
+#botonEnviar {
+    background-color: rgb(136, 182, 68);
+}
+
+#footer {
+    background-color:rgb(11, 61, 105);
+    padding:1em;
+    padding-left: 8em;
+    padding-right: 8em;
+    font-size: small;
+}
