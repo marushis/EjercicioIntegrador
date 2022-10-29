@@ -99,3 +99,40 @@ u {
     padding-right: 8em;
     font-size: small;
 }
+
+#titulo {
+    text-align: center;
+}
+
+#texto {
+    text-align: center;
+}
+
+#cardsDesc {
+display:flex;
+justify-content: center;
+
+}
+
+#cardEst {
+    border-radius: 0%;  
+   text-align: center;
+}
+
+#total {
+    background-color: rgb(205, 231, 255);
+    width: 100%;
+    padding: 1em;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    text-align: left;
+    border-radius: 5px;
+}
+
+#borrar {
+background-color: rgb(154, 211, 69);
+}
+
+#resum {
+    background-color: rgb(154, 211, 69);
+}
